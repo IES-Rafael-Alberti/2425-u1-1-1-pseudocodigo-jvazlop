@@ -1,0 +1,11 @@
+1- Si un número X es par o impar
+
+inicio
+
+ESCRIBIR x
+LEE x
+SI (X / 2 = ENTERO) 
+ENTONCES ESCRIBIR 
+"El número es par." 
+SINO ESCRIBIR "El número es impar."
+fin

@@ -1,0 +1,15 @@
+3- Si un número X es primo.
+
+Inicio
+ESCRIBIR "Introduce un número:" 
+LEER X //
+
+SI X <= 1 ENTONCES 
+es_primo = FALSO
+
+ SINO PARA i DESDE 2 HASTA (X - 1) HACER 
+
+SI (X / i = X or 1)
+
+ENTONCES es_primo Verdadero
+Fin
