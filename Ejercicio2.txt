@@ -1,0 +1,8 @@
+2- La tabla del número X desde el 1 hasta el 10
+
+Inicio
+ESCRIBIR x
+LEE x
+PARA x DESDE 1 HASTA 10 HACER
+ ESCRIBIR X, " * ", i, " = ", X * i
+Fin
